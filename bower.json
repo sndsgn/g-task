@@ -1,0 +1,27 @@
+{
+  "name": "g-task",
+  "version": "0.0.0",
+  "homepage": "http://sndsgn.github.io/g-task",
+  "authors": [
+    "sndsgn <forloine@gmail.com>"
+  ],
+  "dependencies": {
+    "jquery":"latest",
+    "underscore":"latest",
+    "backbone":"latest"
+  },
+  "description": "Google Tasks in the browser",
+  "main": "client/app/app.js",
+  "keywords": [
+    "Google",
+    "Tasks"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,7 @@
+[Done] Set up bower.json file and set up dependencies for underscore, backbone and jquery
+[Done] Set up config file with API key AIzaSyA2Zz1F7FfPB9hDS9RAHaMn-FK4LnkvqRw
+[Done] Set git ignore for API config file
+[Done] bower install
+Create an app model, app model, app view, list model, list view, task model, task view, lists view  
+Add a attributes property to the app model which is an array/object with all the list collections
+
